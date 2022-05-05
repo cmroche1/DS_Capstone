@@ -1,4 +1,4 @@
-Link	Num_Votes	Avg_Score
-Link1	0	0
-Link2	0	0
-Link3	0	0
+Link,Num_Votes,Avg_Score
+Link1,0,0
+Link2,0,0
+Link3,0,0
