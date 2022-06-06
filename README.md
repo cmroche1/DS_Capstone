@@ -5,7 +5,7 @@ Repo for MSDS Capstone Project
 Data Sets folder has placeholder csv files for test and train sets
 
 
-Recommender folder has a csv with three columns:
+Recommender folder has a csv with four columns:
 1. Link - should be a URL
 2. Num_Votes - incremented whenever a user rates this resource
 3. Avg_Score - the average score from users who rate this resource
