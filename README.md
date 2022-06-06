@@ -13,3 +13,6 @@ Recommender folder has a csv with four columns:
 
 
 Front_End folder has a Python notebook that renders a User Interface locally (a 127.0.0.1 link you can click)
+
+
+EDA folder is a sandbox for work that feeds the features presented in the User Interface.
