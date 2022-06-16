@@ -1,4 +1,10 @@
-Link,Num_Votes,Avg_Score,Criteria
-Link1,0,0,criteria1
-Link2,0,0,criteria2
-Link3,0,0,criteria3
+Link,Num_Votes,Num_Offers,Avg_Score,Criteria
+https://www.youtube.com/embed/DwQFll2LrFg,0,0,0,criteria1
+https://www.youtube.com/embed/urEh4_fTtao,6,5,0,criteria1
+https://www.youtube.com/embed/jKoOxrcVnHM,4,4,0,criteria1
+https://www.youtube.com/embed/Z0bZ8wNfuYA,0,0,0,criteria2
+https://www.youtube.com/embed/Drv6jD8xWdw,5,4,0,criteria2
+https://www.youtube.com/embed/VhGLVe6nyYY,4,4,0,criteria2
+https://www.youtube.com/embed/4swFGRhQoMI,0,0,0,criteria3
+https://www.youtube.com/embed/WCC6q9KFLNY,4,4,0,criteria3
+https://www.youtube.com/embed/mxVBSgb5jJ0,4,4,0,criteria3
